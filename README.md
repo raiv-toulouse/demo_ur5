@@ -1,5 +1,5 @@
-ur5
-===
+demo_ur5
+========
 
 [![Build Status](https://travis-ci.org/utecrobotics/ur5.svg?branch=master)](https://travis-ci.org/utecrobotics/ur5)
 
